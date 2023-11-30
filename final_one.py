@@ -1,3 +1,11 @@
+
+## @author : muhammet yasin alperen
+# Ege University - Electrical and Electronic Engineering  -2022
+#linekdin: https://www.linkedin.com/in/yasinalperen/
+#Youtube : https://www.youtube.com/channel/UCaxz7b71_mCAnZXLjoSjkIQ
+
+
+
 import cv2
 import numpy as np
 import time
@@ -329,7 +337,6 @@ while True:
 cam.release()
 
 cv2.destroyAllWindows()
-
 
 
 
